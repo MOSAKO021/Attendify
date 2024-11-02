@@ -1,0 +1,9 @@
+
+path: C:\Users\MOSAKO\attendify\datasets\data
+train: images/train
+val: images/train
+
+
+
+names:
+  0: person
